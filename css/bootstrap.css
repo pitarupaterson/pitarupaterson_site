@@ -4226,6 +4226,7 @@ body a {
   margin-top: 20px;
 }
 .smaller {
+  color: #aaa;
   font-size: 0.7em;
   font-weight: bold;
 }
