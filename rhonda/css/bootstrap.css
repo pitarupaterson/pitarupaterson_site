@@ -4246,6 +4246,10 @@ body li {
   margin-right: auto;
   margin-bottom: 30px;
 }
+.benefits-block {
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
 .full-width-image {
   width: 100%;
 }
