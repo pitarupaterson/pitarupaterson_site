@@ -4192,11 +4192,11 @@ body {
 body h1 {
   font-size: 1.6em;
   line-height: 1.4em;
-  font-weight: 600;
+  font-weight: 300;
   text-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
 }
 body h2 {
-  font-weight: 600;
+  font-weight: 300;
   font-size: 1.2em;
   line-height: 1.2em;
   margin-bottom: 20px;
