@@ -4317,11 +4317,11 @@ body li {
   max-width: 260px;
   padding: 30px;
   font-size: 1.2em;
-  text-shadow: rgba(0, 0, 0, 0.5) 0px 3px 3px;
+  text-shadow: rgba(0, 0, 0, 0.5) 0px 2px 2px;
   line-height: 1.3em;
-  -webkit-box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: inset 0px -3px 2px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: inset 0px -3px 2px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0px -3px 2px 0px rgba(0, 0, 0, 0.5);
 }
 .pull-right {
   float: right;
