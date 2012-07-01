@@ -4291,10 +4291,10 @@ body li {
 .cta-block {
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 100px;
+  margin-bottom: 120px;
   text-align: center;
   color: #fff;
-  padding: 100px 100px 140px 100px;
+  padding: 80px 100px 120px 100px;
   font-size: 1.4em;
   max-width: 360px;
   text-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px;
@@ -4319,7 +4319,6 @@ body li {
   font-size: 0.8em;
   text-shadow: rgba(0, 0, 0, 0.5) 0px 3px 3px;
   line-height: 1.3em;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
   box-shadow: inset 0px -5px 10px 0px rgba(0, 0, 0, 0.5);
